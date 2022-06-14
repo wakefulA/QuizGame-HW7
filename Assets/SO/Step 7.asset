@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a0c8719967f1a4fb6e17c4e5d44e00, type: 3}
+  m_Name: Step 7
+  m_EditorClassIdentifier: 
+  QuestionText: What was the name of the actress who played the role in the movie
+    Titanic?
+  FirstOption: 'A: Elizabeth Taylor'
+  SecondOption: 'B: Monica Bellucci'
+  ThirdOption: 'C: Kate Winslet'
+  FourthOption: 'D: Scarlett Johansson'
+  choices:
+  - {fileID: 11400000, guid: 575b1b937d85b834cb75af4d4c291d9c, type: 2}

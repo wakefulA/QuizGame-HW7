@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a0c8719967f1a4fb6e17c4e5d44e00, type: 3}
+  m_Name: Step 3
+  m_EditorClassIdentifier: 
+  QuestionText: What is the tallest building on earth?
+  FirstOption: 'A: Empire State Building'
+  SecondOption: 'B: Eiffel Tower'
+  ThirdOption: 'C: Shanghai Tower'
+  FourthOption: 'D: Burj Khalifa'
+  choices:
+  - {fileID: 11400000, guid: 3af585b325484b24b9940a0a7bce645d, type: 2}

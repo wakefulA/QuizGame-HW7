@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a0c8719967f1a4fb6e17c4e5d44e00, type: 3}
+  m_Name: Step 5
+  m_EditorClassIdentifier: 
+  QuestionText: How many letters are in the russian alphabet ?
+  FirstOption: 'A: 29'
+  SecondOption: 'B: 33'
+  ThirdOption: 'C: 31'
+  FourthOption: 'D: 32'
+  choices:
+  - {fileID: 11400000, guid: 0ff30ae8ce58ec6419bc830550def158, type: 2}
